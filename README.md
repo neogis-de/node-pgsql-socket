@@ -23,6 +23,7 @@ Output to be in GeoJSON format. See SendSocket.sql for more info.
 *   HStore Extension
 
 Install SendSocket.sql:
+
     createdb -O username mydb
     psql -d mydb -U username -f SendSocket.sql
 
