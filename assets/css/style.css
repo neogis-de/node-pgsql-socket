@@ -1,0 +1,16 @@
+a {
+  color: #00b7ff;
+  -webkit-transition: color 0.3s, background 0.3s, filter 0.3s;
+  -moz-transition: color 0.3s, background 0.3s, filter 0.3s;
+  -o-transition: color 0.3s, background 0.3s, filter 0.3s;
+  -ms-transition: color 0.3s, background 0.3s, filter 0.3s;
+  transition: color 0.3s, background 0.3s, filter 0.3s;
+}
+.container {
+  width: 960px;
+  max-width: 960px;
+  margin: 0 auto;
+}
+footer {
+  margin-top: 40px;
+}

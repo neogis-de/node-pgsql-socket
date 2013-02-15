@@ -1,0 +1,26 @@
+{
+  "name": "App",
+  "version": "1.0.0",
+  "description": "Real Time Connection with Node - PostgreSQL using WebSocket socket.io.",
+  
+  "author": {
+    "name": "Erick Tampubolon",
+    "email": "lontongcorp@gmail.com",
+    "url":  "http://www.lontongcorp.com/"
+  },
+
+  "engines": {
+    "node": ">= 0.6.0",
+    "npm": ">= 1.0.0"
+  },
+
+  "dependencies": {
+      "express":">= 3.0.0",
+      "stylus": "",
+      "nib": "",
+      "socket.io":""
+  },
+
+  "private": true,
+  "main": "server.js"
+}
