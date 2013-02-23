@@ -37,7 +37,7 @@ Install SendSocket.sql:
 
 Install dependencies:
 
-    npm bundle install
+    npm install
 
 
 ### Frontend (optional)

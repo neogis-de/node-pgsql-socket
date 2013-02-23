@@ -21,6 +21,5 @@
       "socket.io":""
   },
 
-  "private": true,
   "main": "server.js"
 }
