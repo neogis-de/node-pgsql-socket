@@ -1,5 +1,5 @@
-Real Time Connection PostgreSQL + NodeJS
-========================================
+NojeJS + PostgreSQL + Socket.io
+===============================
 
 Real Time Connection with Node - PostgreSQL using WebSocket socket.io.
 While usually using polling connection between apps to database server, this method using PostgreSQL with PL/Python pushin new or modified data to the app otherwise through web socket via node.js.
