@@ -1,5 +1,5 @@
 {
-  "name": "App",
+  "name": "node-pgsql-socket",
   "version": "1.0.0",
   "description": "Real Time Connection with Node - PostgreSQL using WebSocket socket.io.",
   
