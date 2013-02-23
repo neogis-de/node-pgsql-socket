@@ -1,4 +1,4 @@
-NojeJS + PostgreSQL + Socket.io
+NodeJS + PostgreSQL + Socket.io
 ===============================
 
 Real Time Connection with Node - PostgreSQL using WebSocket socket.io.
@@ -33,7 +33,7 @@ Install SendSocket.sql:
 *   Express 3.x
 *   Socket.io
 
-    Since PostgreSQL will connect to App, we don't need node-pg or similar
+Since PostgreSQL will connect to App, we don't need node-pg or similar
 
 
 ### Frontend (optional)
